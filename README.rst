@@ -1,4 +1,4 @@
-AJavascript app for geocoding tasks designed to integrate with PyBossa
+Javascript app for geocoding tasks designed to integrate with PyBossa
 microtasking platform.
 
 Started as part of 2011 RHOK. Etherpad: http://okfnpad.org/rhok-dec-2011
@@ -14,6 +14,7 @@ Here's the install::
 
   git clone https://github.com/rgrp/pybossa-geodemo
   # initialize the submodule for all the vendor libs
+  cd pybossa-geodemo
   git submodule init
   git submodule update
 
