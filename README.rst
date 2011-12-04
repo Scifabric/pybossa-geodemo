@@ -5,6 +5,8 @@ Started as part of 2011 RHOK. Etherpad: http://okfnpad.org/rhok-dec-2011
 
 Mockup: http://i.imgur.com/Zw4Mr.jpg
 
+Wireframe: https://docs.google.com/drawings/d/15uxs0mN4l9pmm-K5KRuM6hXB2cMTd3GT2czD37r-CMs/edit
+
 Licensed under MIT.
 
 Install
